@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =8
+let g:netrw_dirhist_8='/home/drzaius'
+let g:netrw_dirhist_7='/home/drzaius/.config/vim/plugins/vimtex.vim'
+let g:netrw_dirhist_6='/home/drzaius/.vim/colors'
+let g:netrw_dirhist_5='/home/drzaius/.vim'
+let g:netrw_dirhist_4='/home/drzaius/Nextcloud/Universidad/S2 2022/INF256/Laboratorios/Lab1'
+let g:netrw_dirhist_3='/home/drzaius/Nextcloud/my_learning/C++/SDL2'
+let g:netrw_dirhist_2='/home/drzaius/Nextcloud/Universidad/S1 2022/INF253/Trabajos/Tarea3/src/tarea3/jugador'
+let g:netrw_dirhist_1='/home/drzaius/Nextcloud/Universidad/S1 2022/INF253/Trabajos/Tarea3/src/tarea3/atraccion'
+let g:netrw_dirhist_0='/home/drzaius/Nextcloud/Universidad/S1 2022/INF253/Trabajos/Tarea3/src/tarea3/jugador'
+let g:netrw_dirhist_9='/home/drzaius/Nextcloud/Universidad/S1 2022/INF253/Trabajos/Tarea3/src/tarea3/atraccion'
